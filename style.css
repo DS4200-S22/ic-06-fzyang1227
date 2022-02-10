@@ -1,0 +1,11 @@
+body {
+	font-family: Arial;
+}
+
+#shape {
+	display: flex;
+}
+
+#circle1 {
+	fill: blue;
+}
